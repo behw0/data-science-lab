@@ -1,28 +1,39 @@
-# 🧠 data-science-lab
+# data-science-lab
 
-Repositório de projetos práticos de Data Science com foco em Machine Learning, NLP e automação com Python.
+**ML a serviço da inferência.** Causal ML e forecasting técnico de fronteira — machine
+learning usado para *inferir*, não só prever. Audiência: fintechs, scale-ups e times de
+decision science. Prova de domínio de ML pelo motivo certo.
 
-## 🗂️ Projetos
+> A régua de cada projeto: **pergunta original · dado difícil · método não-trivial ·
+> resultado acionável · apresentação obsessiva.**
 
-| Projeto | Ferramentas | Status |
-|---|---|---|
-| [suburbanos-ml](./suburbanos-ml/) | Python · scikit-learn | 🔄 Em progresso |
+**Lucas Hoffnung Bernardo** — Economist · Data Scientist · [github.com/lbhoffnung](https://github.com/lbhoffnung)
 
-## 🛠️ Stack
+---
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+## Projetos
 
-## 📁 Estrutura
+| # | Projeto | Tagline | Status |
+|---|---------|---------|--------|
+| 3 | **[Para quem a política funciona?](./double-ml-heterogeneidade/)** | Efeitos heterogêneos de tratamento com Double/Debiased Machine Learning | ⚪ Planejado |
+| 4 | **[Forecasting hierárquico](./forecasting-hierarquico-m5/)** | Reconciliação ótima e o benchmark honesto: quando deep learning perde para o clássico | ⚪ Planejado |
 
-```
-data-science-lab/
-└── nome-do-projeto/
-    ├── README.md
-    ├── data/
-    ├── notebooks/
-    ├── src/
-    └── outputs/
-```
+---
+
+### 3 · Para quem a política funciona?
+*Causal ML · Double ML / Causal Forests · Fronteira Chernozhukov–Athey*
+
+Um tratamento tem efeito médio conhecido — mas para **quem** funciona e para quem é
+desperdício? Double/Debiased ML para o ATE e Causal Forests para o CATE, terminando em
+uma política de targeting avaliada out-of-sample.
+
+### 4 · Forecasting hierárquico com reconciliação ótima
+*Séries hierárquicas · Reconciliação MinT · Benchmark rigoroso*
+
+Em uma hierarquia real (SKU → loja → região → total), como garantir previsões
+consistentes entre níveis? E a pergunta que quase ninguém responde com honestidade:
+quando deep learning vale a pena — e quando ETS/ARIMA vencem?
+
+---
+
+_Regra de execução: um projeto de cada vez, V1 impecável antes da V2._
