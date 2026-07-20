@@ -15,7 +15,7 @@ decision science. Prova de domínio de ML pelo motivo certo.
 
 | # | Projeto | Tagline | Status |
 |---|---------|---------|--------|
-| 3 | **[Para quem a política funciona?](./double-ml-heterogeneidade/)** | Efeitos heterogêneos de tratamento com Double/Debiased Machine Learning | ⚪ Planejado |
+| 3 | **[Para quem a política funciona?](./double-ml-heterogeneidade/)** | Efeitos heterogêneos de tratamento com Double/Debiased Machine Learning | 🟢 V1 concluída |
 | 4 | **[Forecasting hierárquico](./forecasting-hierarquico-m5/)** | Reconciliação ótima e o benchmark honesto: quando deep learning perde para o clássico | ⚪ Planejado |
 
 ---

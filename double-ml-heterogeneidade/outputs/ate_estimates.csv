@@ -1,0 +1,7 @@
+metodo,ate,se,n,ic90_lo,ic90_hi
+Experimento NSW (benchmark),1794.3,670.8,445,690.8,2897.8
+Diferença de médias (ingênua),-15204.8,655.9,2675,-16283.8,-14125.8
+OLS com controles,751.9,783.3,2675,-536.5,2040.4
+DML partialling-out (LightGBM),-1678.6,855.3,2675,-3085.5,-271.8
+AIPW/IRM cross-fitted,-11380.0,4019.7,2675,-17992.5,-4767.5
+AIPW/IRM na região de overlap,-2591.9,1591.1,387,-5209.2,25.5
