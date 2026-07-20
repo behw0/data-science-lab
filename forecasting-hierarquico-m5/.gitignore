@@ -1,0 +1,13 @@
+# Dados brutos: reconstruídos pelo pipeline, nunca versionados
+data/raw/*
+!data/raw/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+*.egg-info/
+
+# Notebooks: manter limpos (sem outputs pesados commitados via nbstripout se configurado)
