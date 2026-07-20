@@ -48,7 +48,7 @@ coerentes entre níveis? E quanto a reconciliação realmente melhora a acuráci
 ---
 
 <div align="center">
-<sub><b>Portfolio 2.0 · Seis Joias</b> — 
+<sub><b>Portfólio</b> — 
 <a href="https://github.com/lbhoffnung/economic-sciences-lab">economic-sciences-lab</a> · 
 <a href="https://github.com/lbhoffnung/data-science-lab">data-science-lab</a> · 
 <a href="https://github.com/lbhoffnung/data-analysis-lab">data-analysis-lab</a></sub>
