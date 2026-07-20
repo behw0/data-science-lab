@@ -61,11 +61,12 @@ Protocolo canônico do M5, **sem look-ahead**:
    previsões passam a somar entre níveis (requisito operacional em varejo e supply chain).
    Vender MinT como bala de prata seria desonesto; reportar o trade-off é o ponto.
 
-## Por que é foda
+## Relevância prática
 
-Forecasting hierárquico é exatamente o que varejo, supply chain e energia precisam — e o
-que projetos de Kaggle ignoram. Um benchmark que **não torce pelo modelo da moda** e admite
-que o clássico vence sinaliza a senioridade técnica que separa engenheiro de praticante.
+Previsões hierárquicas coerentes — que somam entre níveis — são o que varejo, supply chain
+e energia precisam no dia a dia, e o que um benchmark que torce pelo modelo da moda costuma
+ignorar. Aqui a pergunta "quanto a reconciliação realmente ajuda?" é respondida com o número,
+não com torcida.
 
 ## Limitações (honestidade V1)
 

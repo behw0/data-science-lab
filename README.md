@@ -1,11 +1,7 @@
 # data-science-lab
 
 **ML a serviço da inferência.** Causal ML e forecasting técnico de fronteira — machine
-learning usado para *inferir*, não só prever. Audiência: fintechs, scale-ups e times de
-decision science. Prova de domínio de ML pelo motivo certo.
-
-> A régua de cada projeto: **pergunta original · dado difícil · método não-trivial ·
-> resultado acionável · apresentação obsessiva.**
+learning usado para *inferir*, não só prever.
 
 **Lucas Hoffnung Bernardo** — Economist · Data Scientist · [github.com/lbhoffnung](https://github.com/lbhoffnung)
 
@@ -53,5 +49,3 @@ coerentes entre níveis? E quanto a reconciliação realmente melhora a acuráci
 <a href="https://github.com/lbhoffnung/data-science-lab">data-science-lab</a> · 
 <a href="https://github.com/lbhoffnung/data-analysis-lab">data-analysis-lab</a></sub>
 </div>
-
-_Regra de execução: um projeto de cada vez, V1 impecável antes da V2._
